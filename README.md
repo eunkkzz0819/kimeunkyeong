@@ -1,9 +1,11 @@
-# kimeunkyeong
+#  Name : kimeunkyeong
 
 
-# 201513469
-# Computer Science
-# 22
+# Student Number : 201513469
+# Major : Computer Science
+## Age : 22
+## favorite color : Black
+## favorite actor : 이제훈
 
 > Live in Donghae
 
